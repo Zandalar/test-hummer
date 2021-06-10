@@ -1,0 +1,30 @@
+{
+  "home": "Главная",
+
+  "sidenav.main": "Основные",
+  "sidenav.dashboard": "Дашборд",
+  "sidenav.orders": "Заказы",
+  "sidenav.banner": "Баннеры",
+  "sidenav.promocodes": "Промокоды",
+  "sidenav.staff": "Сотрудники",
+  "sidenav.mail": "Рассылки",
+
+  "sidenav.users": "Клиенты",
+  "sidenav.users.usergroups": "Группы клиентов",
+  "sidenav.users.userlist": "Список клиентов",
+
+  "sidenav.ecommerce": "Каталог",
+  "sidenav.ecommerce.productList": "Товары",
+  "sidenav.ecommerce.addProduct": "Категории",
+  "sidenav.ecommerce.editProduct": "Коллекции",
+  "sidenav.ecommerce.orders": "Комбо",
+
+  "sidenav.maps": "Оффлайн точки",
+  "sidenav.maps.address": "Адреса",
+  "sidenav.maps.geozones": "Геозоны",
+
+  "sidenav.systems": "Системные",
+  "sidenav.settings": "Настройки",
+  "sidenav.mobileapp": "Мобильное приложение",
+  "sidenav.logs": "Логи"
+}
