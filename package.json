@@ -86,7 +86,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://zandalar.github.io/test-hummer",
+  "homepage": "https://zandalar.github.io/test-hummer/app/home",
   "main": "index.js",
   "repository": {
     "type": "git",
